@@ -1,0 +1,1 @@
+/home/universeindex/rice/config/fish

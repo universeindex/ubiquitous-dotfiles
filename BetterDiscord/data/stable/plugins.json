@@ -1,0 +1,22 @@
+{
+    "ThemeRepo": true,
+    "BDFDB": true,
+    "PluginRepo": true,
+    "Animations": false,
+    "AppNotifications": true,
+    "AvatarsEverywhere": true,
+    "BetterAnimations": true,
+    "ZeresPluginLibrary": true,
+    "BetterBotTags": true,
+    "BetterCodeblocks": true,
+    "BetterFormattingRedux": true,
+    "BetterInvites": true,
+    "BetterMediaPlayer": true,
+    "BetterNsfwTag": true,
+    "BetterRoleColors": true,
+    "BlurNSFW": true,
+    "BetterSyntax": true,
+    "BetterVolume": true,
+    "CallTimeCounter": true,
+    "discordExperiments": true
+}

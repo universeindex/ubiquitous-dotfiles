@@ -1,0 +1,8 @@
+T 1656550698 19*	Now talking on 22#Pine64
+T 1656536298 22*	Topic for 22#Pine64 is: General discussion about Pine64. Device-specific discussion goes in other channels. See #pinebook, #pinephone, #Pinetime etc | The wiki always needs improvement! https://wiki.pine64.org
+T 1656536298 22*	Topic for 22#Pine64 set by 26abcde (24Fri Jan 28 09:37:50 2022)
+T 1656536411 20<universeindex>30	anyone know if it's possible to boot a pine a64 from a usb? do i need a micro sd card to tell it to do it or will it just detect it? thanks
+T 1656551029 24*	Arnavion has quit (Read error)
+T 1656536768 20<universeindex>30	hello?
+T 1656536797 20<universeindex>30	nvm
+T 1656536803 FiSHLiM plugin unloaded

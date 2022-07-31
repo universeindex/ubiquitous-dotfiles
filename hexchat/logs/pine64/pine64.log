@@ -1,0 +1,121 @@
+**** BEGIN LOGGING AT Wed Jun 29 16:58:16 2022
+
+Jun 29 16:58:16 *	*** Looking up your hostname...
+Jun 29 16:58:17 *	*** Found your hostname
+Jun 29 16:58:17 *	Capabilities supported: unrealircd.org/link-security=2 unrealircd.org/plaintext-policy=user=allow,oper=warn,server=deny extended-join chghost cap-notify userhost-in-names multi-prefix away-notify sasl=EXTERNAL,PLAIN tls account-notify message-tags batch account-tag server-time echo-message labeled-response
+Jun 29 16:58:17 *	Capabilities requested: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify account-tag server-time 
+Jun 29 16:58:18 *	Capabilities acknowledged: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify account-tag server-time 
+**** ENDING LOGGING AT Wed Jun 29 16:58:18 2022
+
+**** BEGIN LOGGING AT Wed Jun 29 16:58:18 2022
+
+Jun 29 16:58:18 *	Welcome to the Pine64 IRC Network universeindex!universein@pool-108-51-21-240.washdc.fios.verizon.net
+Jun 29 16:58:18 *	Your host is irc.pine64.org, running version UnrealIRCd-5.0.4
+Jun 29 16:58:18 *	This server was created Fri Apr 24 2020 at 18:05:04 UTC
+Jun 29 16:58:18 *	irc.pine64.org UnrealIRCd-5.0.4 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIHzMQNRTOVKDdGLPZSCcf
+Jun 29 16:58:18 *	AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=beI,kLf,lH,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,ptmTSOcarnqjf HCN INVEX :are supported by this server
+Jun 29 16:58:18 *	KICKLEN=307 KNOCK MAP MAXCHANNELS=20 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 NAMESX NETWORK=Pine64 NICKLEN=30 PREFIX=(qaohv)~&@%+ :are supported by this server
+Jun 29 16:58:18 *	QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A WHOX :are supported by this server
+Jun 29 16:58:18 *	Clk-1F7B0131.washdc.fios.verizon.net :is now your displayed host
+Jun 29 16:58:18 *	*** You are connected to irc.pine64.org with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+Jun 29 16:58:18 *	There are 1 users and 291 invisible on 2 servers
+Jun 29 16:58:18 *	6 :operator(s) online
+Jun 29 16:58:18 *	20 :channels formed
+Jun 29 16:58:18 *	I have 286 clients and 1 servers
+Jun 29 16:58:18 *	286 432 :Current local users 286, max 432
+Jun 29 16:58:18 *	292 438 :Current global users 292, max 438
+Jun 29 16:58:18 *	- irc.pine64.org Message of the Day - 
+Jun 29 16:58:18 *	- 23/9/2021 7:42
+Jun 29 16:58:18 *	-                    '`                   
+Jun 29 16:58:18 *	-                 ``:kw<`                 
+Jun 29 16:58:18 *	-                 =cKmKKu:                
+Jun 29 16:58:18 *	-           `-```~jKK3KK3z!` `_.          
+Jun 29 16:58:18 *	-          `V8D3x~`':**!``;]X0QH`         
+Jun 29 16:58:18 *	-         `T8g8Oyv,`:|(!`:vwd888i`        
+Jun 29 16:58:18 *	-         *UL~-"(cM$g$gggMc):-~xI<`       
+Jun 29 16:58:18 *	-        `:rlW$ggggggggggggg8$WV*,        
+Jun 29 16:58:18 *	-    l$U(::*}G0ggggggggggggg8DKl*,:\w$x   
+Jun 29 16:58:18 *	-    u####QZV^__rT5$8ggg0W}*:,*ldQ####}   
+Jun 29 16:58:18 *	-    u#########Q3T!`")r!.~uW8#########}   
+Jun 29 16:58:18 *	-    u########QM}^._*VV)_.*TWQ########}   
+Jun 29 16:58:18 *	-    u###BMV)__<cMB######QWcr-_^ydB###}   
+Jun 29 16:58:18 *	-    |Ux:-*THQ################QZ}^.:)m*`  
+Jun 29 16:58:18 *	- .ww*_`:TdQ####################QMY,`_*cy'
+Jun 29 16:58:18 *	-  :Q@@#Ok^--rV5B##########Bdur,_*kO#@@#_ 
+Jun 29 16:58:18 *	-  `"#@@@@@@#dy|__)yZBB9V)__*wO#@@@@@@#*  
+Jun 29 16:58:18 *	-    )#@@@@@@@@@@g*` `` `(Q@@@@@@@@@@#*`  
+Jun 29 16:58:18 *	-    `)@@@@@#Oyr-:xKg@@QUx_-^w9#@@@@@<    
+Jun 29 16:58:18 *	-      )0Ir_-|z9@@@@@@@@@@@#$w),,)mgV     
+Jun 29 16:58:18 *	-        `\D@@@@@@@@@@@@@@@@@@@@O*`       
+Jun 29 16:58:18 *	-           `<}5#@@@@@@@@@@Bd}~'          
+Jun 29 16:58:18 *	-               `.*V0@@QV*.               
+Jun 29 16:58:18 *	-                   !@@Y                  
+Jun 29 16:58:18 *	-                   !@@i                  
+Jun 29 16:58:18 *	-                   :BB|
+Jun 29 16:58:18 *	- 
+Jun 29 16:58:18 *	-       ____  _            _____ __ __
+Jun 29 16:58:18 *	-      / __ \(_)___  ___  / ___// // /
+Jun 29 16:58:18 *	-     / /_/ / / __ \/ _ \/ __ \/ // /_
+Jun 29 16:58:18 *	-    / ____/ / / / /  __/ /_/ /__  __/
+Jun 29 16:58:18 *	-   /_/   /_/_/ /_/\___/\____/  /_/   
+Jun 29 16:58:18 *	-                                   
+Jun 29 16:58:18 *	- #######################################
+Jun 29 16:58:18 *	- ## Welcome to the PINE64 IRC Network ##
+Jun 29 16:58:18 *	- ##                                   ##
+Jun 29 16:58:18 *	- ##   Hosted on part of the 24 node   ##
+Jun 29 16:58:18 *	- ##     RockPro64 cluster running     ##
+Jun 29 16:58:18 *	- ## almost all pine64.org services :) ##
+Jun 29 16:58:18 *	- #######################################
+Jun 29 16:58:18 *	- 
+Jun 29 16:58:18 *	- NetOp:
+Jun 29 16:58:18 *	- Matthew Petry (fireTwoOneNine/fire219)
+Jun 29 16:58:18 *	- 
+Jun 29 16:58:18 *	- Available Channels:
+Jun 29 16:58:18 *	- #pine64
+Jun 29 16:58:18 *	- #rock64
+Jun 29 16:58:18 *	- #quartz64
+Jun 29 16:58:18 *	- #quartz-dev
+Jun 29 16:58:18 *	- #pinebook
+Jun 29 16:58:18 *	- #pinephone
+Jun 29 16:58:18 *	- #pinetab
+Jun 29 16:58:18 *	- #pinetime
+Jun 29 16:58:18 *	- #pinetime-dev
+Jun 29 16:58:18 *	- #pinecil
+Jun 29 16:58:18 *	- #cube
+Jun 29 16:58:18 *	- #nutcracker
+Jun 29 16:58:18 *	- #offtopic
+Jun 29 16:58:18 *	- #lora
+Jun 29 16:58:18 *	- #pinedev
+Jun 29 16:58:18 *	- #pinenote
+Jun 29 16:58:18 *	- 
+Jun 29 16:58:18 *	- Enjoy your stay.
+Jun 29 16:58:18 *	End of /MOTD command.
+Jun 29 16:58:18 *	universeindex sets mode +i on universeindex
+Jun 29 16:58:18 *	universeindex sets mode +w on universeindex
+Jun 29 16:58:18 *	universeindex sets mode +x on universeindex
+Jun 29 16:58:18 *	universeindex sets mode +z on universeindex
+**** ENDING LOGGING AT Wed Jun 29 17:02:59 2022
+
+**** BEGIN LOGGING AT Wed Jun 29 17:02:59 2022
+
+**** ENDING LOGGING AT Wed Jun 29 17:03:14 2022
+
+**** BEGIN LOGGING AT Wed Jun 29 17:03:14 2022
+
+**** ENDING LOGGING AT Wed Jun 29 17:03:48 2022
+
+**** BEGIN LOGGING AT Wed Jun 29 17:03:48 2022
+
+**** ENDING LOGGING AT Wed Jun 29 17:04:04 2022
+
+**** BEGIN LOGGING AT Wed Jun 29 17:04:04 2022
+
+**** ENDING LOGGING AT Wed Jun 29 17:04:32 2022
+
+**** BEGIN LOGGING AT Wed Jun 29 17:04:32 2022
+
+Jun 29 17:06:43 Checksum plugin unloaded
+Jun 29 17:06:43 Sysinfo plugin unloaded
+Jun 29 17:06:43 Perl interface unloaded
+**** ENDING LOGGING AT Wed Jun 29 17:06:43 2022
+

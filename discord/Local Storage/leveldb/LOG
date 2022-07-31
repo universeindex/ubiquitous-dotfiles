@@ -1,0 +1,6 @@
+2022/07/21-09:13:42.440 e3c Reusing MANIFEST /home/universeindex/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/07/21-09:13:42.440 e3c Recovering log #13
+2022/07/21-09:13:42.441 e3c Reusing old log /home/universeindex/.config/discord/Local Storage/leveldb/000013.log 
+2022/07/21-09:15:43.212 f7c Level-0 table #17: started
+2022/07/21-09:15:43.213 f7c Level-0 table #17: 27758 bytes OK
+2022/07/21-09:15:43.214 f7c Delete type=0 #13

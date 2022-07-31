@@ -1,0 +1,23 @@
+**** BEGIN LOGGING AT Wed Jun 29 16:58:15 2022
+
+Jun 29 16:58:15 *	Connecting to irc.pine64.org (91.219.133.83:6697)
+Jun 29 16:58:15 Failed loading notification plugin: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+Jun 29 16:58:16 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jun 29 16:58:16 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jun 29 16:58:16 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Jun 29 16:58:16 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jun 29 16:58:16 *	* Subject: /CN=irc.pine64.org
+Jun 29 16:58:16 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Jun 29 16:58:16 *	* Certification info:
+Jun 29 16:58:16 *	  Subject:
+Jun 29 16:58:16 *	    CN=irc.pine64.org
+Jun 29 16:58:16 *	  Issuer:
+Jun 29 16:58:16 *	    C=US
+Jun 29 16:58:16 *	    O=Let's Encrypt
+Jun 29 16:58:16 *	    CN=R3
+Jun 29 16:58:16 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jun 29 16:58:16 *	  Sign algorithm sha256WithRSAEncryption
+Jun 29 16:58:16 *	  Valid since Jun 22 11:00:09 2022 GM to Sep 20 11:00:08 2022 GM
+Jun 29 16:58:16 *	* Cipher info:
+Jun 29 16:58:16 *	  Version: TLSv1.3, cipher TLS_CHACHA20_POLY1305_SHA256 (256 bits)
+Jun 29 16:58:16 *	Connected. Now logging in.
